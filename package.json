@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "universal-router",
+  "name": "@myeasyfarm/universal-router",
   "version": "9.1.0",
   "description": "Isomorphic router for JavaScript web applications",
   "homepage": "https://www.kriasoft.com/universal-router/",
