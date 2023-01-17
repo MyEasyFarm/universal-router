@@ -53,7 +53,7 @@
   "scripts": {
     "lint": "eslint . --ext .ts,.js",
     "test": "jest",
-    "prebuild": "tsc --project tools/build.tsconfig.json",
+    "buildTs": "tsc --project tools/build.tsconfig.json",
     "build": "node tools/build.js"
   }
 }
