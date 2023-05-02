@@ -36,7 +36,7 @@ export interface ResolveContext extends RouterContext {
  * Params is a key/value object that represents extracted URL parameters.
  */
 export interface RouteParams {
-  [paramName: string]: string | string[]
+  [paramName: string]: string
 }
 
 export type RouteResultSync<T> = T | null | undefined
